@@ -43,7 +43,8 @@
 
 <!-- Photo's -->
 <div align="center" >
-    <p style="font-size:17px; margin:20px">A ᴠɪᴅᴀ ᴇ́ ᴜᴍᴀ ᴄᴏɴsᴛᴀɴᴛᴇ ᴏsᴄɪʟᴀᴄ̧ᴀ̃ᴏ ᴇɴᴛʀᴇ ᴀ ᴀ̂ɴsɪᴀ ᴅᴇ ᴛᴇʀ ᴇ ᴛᴇ́ᴅɪᴏ ᴅᴇ ᴘᴏssᴜɪʀ.</p>
+</p>
+    <p style="font-size:17px; margin:20px">A programação é a poesia que o computador entende</p>
 </div>
 
 ##
