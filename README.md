@@ -1,7 +1,6 @@
 <!-- Presentation -->
 <div align="center" style="text-align:center">
-    <p style="font-size:30px; margin-bottom:5px" >Jᴏᴀ̃ᴏ Pᴇᴅʀᴏ</p>
-    <p style="font-size:15px">- Eᴛʜɪᴄᴀʟ Hᴀᴄᴋɪɴɢ & Dᴇᴠᴇʟᴏᴘᴇʀ -</p>
+    <p style="font-size:30px; margin-bottom:5px" >Jᴏᴀ̃ᴏ Gabriel</p>
 
 </div>
 
@@ -11,7 +10,7 @@
 <div align="center" style="margin-top:25px">
     <p style="font-size:16px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs🤺</p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,nodejs,next,react,php,py,git,mysql,kali" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,c#,php,py,git,mysql" />
     </a>
 </div>
 
