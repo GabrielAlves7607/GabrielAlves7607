@@ -14,20 +14,13 @@
     </a>
 </div>
 
-##
 
-<div align="center">
 
-  <p style="font-size:17px">Eꜱᴛᴀᴛíꜱᴛɪᴄᴀꜱ ᴅᴏ GɪᴛHub:</p>
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielAlves7607&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 405px;" />
       
-  </div>
 
-  <br>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlves7607&theme=radical" alt="Linguagens mais usadas" style="width: 300px; height:300px" />
+
 </div>
 
 ##
